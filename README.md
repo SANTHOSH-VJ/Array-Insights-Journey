@@ -1,6 +1,6 @@
 # 🧠 Array-Insights-Journey
 
-Welcome to my **Array Learning Journal** — a personal repository where I document my journey of learning and improving problem-solving skills through array-based challenges.
+Welcome to my **Array-Insights-Journey** — a personal repository where I document my journey of learning and improving problem-solving skills through array-based challenges.
 
 ---
 
