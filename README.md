@@ -1,2 +1,15 @@
-# array-learning-journal
-A personal journal documenting my daily learning and practice of array-based problems. Includes easy-level coding challenges, explanations, and solutions to strengthen my understanding of arrays and data manipulation.
+# 🧠 Array Learning Journal
+
+Welcome to my **Array Learning Journal** — a personal repository where I document my journey of learning and improving problem-solving skills through array-based challenges.
+
+---
+
+## 🎯 Purpose
+
+This repository serves as a space to:
+- Practice and strengthen array concepts.
+- Build consistency through daily problem-solving.
+- Maintain a personal record of growth and learning.
+- Showcase solutions as part of my coding portfolio.
+
+---
