@@ -19,3 +19,7 @@ class Main {
                 System.out.print("The array is not sorted");
             }
         }
+
+/* TC -> O(N)
+   Sc -> O(1)
+*/     
